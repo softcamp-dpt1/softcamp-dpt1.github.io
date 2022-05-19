@@ -3,14 +3,14 @@ baseurl: /
 url: "https://sylhare.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: SOFTCAMP                                         # site's title
-description: "SOFTCAMP 제품개발1팀 기술 블로그"      # used by search engines
-avatar: assets/img/logos/company-logo.png              # Empty for no avatar in navbar
+title: Softcamp Product Development Team 1                                    # site's title
+description: "A website with blog posts and pages"      # used by search engines
+avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: "제품개발1팀 기술 블로그"  # Change Blog header text
-header_feature_image: assets/img/header/main.jpg
+header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -34,8 +34,8 @@ comments:
   disqus_shortname:                                     # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo:                                               # your public comments repository (e.g. owner/repo)
-    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    repo: "[softcamp-dpt1/softcamp-dpt1.github.io]"     # your public comments repository (e.g. owner/repo)
+    issue-term: "url"                                   # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
 # PAGINATION
 paginate: 5
