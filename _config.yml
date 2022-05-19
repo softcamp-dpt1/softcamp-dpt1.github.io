@@ -34,8 +34,10 @@ comments:
   disqus_shortname:                                     # Your discus shortname for comments
   cusdis_app_id:                                        # Your cusdis data-app-id
   utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
-    repo: "[softcamp-dpt1/softcamp-dpt1.github.io]"     # your public comments repository (e.g. owner/repo)
-    issue-term: "url"                                   # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    repo: "softcamp-dpt1/softcamp-dpt1"                 # your public comments repository (e.g. owner/repo)
+    issue-term: "pathname"                              # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    theme: "github-light"
+    crossorigin: "anonymous"
 
 # PAGINATION
 paginate: 5
