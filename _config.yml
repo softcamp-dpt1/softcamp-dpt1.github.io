@@ -33,7 +33,7 @@ color_theme: auto                                       # auto, dark or light
 comments:
   provider    :  "utterances"
   utterances:                                             # Enable by filling below information. For more info, go to https://utteranc.es
-    repo  :      "softcamp-dpt1/softcamp-dpt1"  # your public comments repository (e.g. owner/repo) 
+    repo  :      "softcamp-dpt1/comments"            # your public comments repository (e.g. owner/repo) 
     theme :      "github-light"                           # "github-light" (default), "github-dark", "photon-dark"
     issue-term : "pathname"                               # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
